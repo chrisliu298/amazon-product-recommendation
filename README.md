@@ -1,1 +1,1 @@
-# amazon-product-recommendation
+# Amazon Product Recommendation
